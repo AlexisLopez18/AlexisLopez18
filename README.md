@@ -1,16 +1,24 @@
-### Hi there 👋
+# Acerca de mi 👋
+### *Soy estudiante del Insituto Tecnologico de Tijuana, graduado del Centro de Bachillerato Tecnologico industrial y de servicios No. 155 como técnico en Informática*
 
-<!--
-**AlexisLopez18/AlexisLopez18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Cursando en Penúltimo semestre de la carrera
+- 👯 Estoy buscando nuevos aprendizajes.
+- 🤔 Necesito aprender nuevos metodos de aprendizaje.
+- 💬 Pueden Preguntarme acerca de problemas de Hardware
+- ⚡ *Siempre se puede aprender algo nuevo*
 
-Here are some ideas to get you started:
+## Mis Conocimientos Basicos son:
+### Lenguajes de programación
+- C#
+- Phyton
+- HTML
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Herramientas de diseño:
+- CSS
+- Boostrap
+- Cirrus
+
+
+### Mis Contactos son:
+- WhatsApp: 664 355 6030
