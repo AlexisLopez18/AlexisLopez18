@@ -21,5 +21,5 @@
 
 
 ### Mis Contactos son:
-- WhatsApp: 664 355 6030
+- WhatsApp: 664 575 4330
 - Correo: laboral.alexloan@gmail.com
